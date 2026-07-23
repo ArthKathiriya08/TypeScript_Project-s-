@@ -1,4 +1,3 @@
-"use strict";
 // ATM Machine Project
 let accountPin = 2008;
 let enteredPin = 2008; // Enter PIN manually for testing
